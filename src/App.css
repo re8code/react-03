@@ -1,0 +1,14 @@
+.base {
+  width: 750px;
+  height: 250px;
+  margin: 0 auto;
+  background-color: red;
+}
+
+.basic {
+  width: 210px;
+  height: 210px;
+  padding: 20px;
+  float: left;
+  background-color: orange;
+}
